@@ -1,0 +1,12 @@
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\ValheimMod.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\ValheimMod.pdb
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\0Harmony.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\BepInEx.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\BepInEx.Harmony.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\UnityEngine.CoreModule.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\bin\Debug\UnityEngine.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\obj\Debug\ValheimMod.csprojAssemblyReference.cache
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\obj\Debug\ValheimMod.csproj.CoreCompileInputs.cache
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\obj\Debug\ValheimMod.csproj.CopyComplete
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\obj\Debug\ValheimMod.dll
+D:\GitKraken\ValheimMod\ValheimMod\ValheimMod\obj\Debug\ValheimMod.pdb
